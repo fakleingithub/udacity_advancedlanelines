@@ -133,7 +133,7 @@ I implemented this step in the `process_image()` function from line 55 to 72 and
 
 ### Pipeline (video)
 
-
+[Here is my video of the advanced lane finding project](https://youtu.be/mwVFD27jUsM)
 ![alt text][video1]
 
 ---
